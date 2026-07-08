@@ -1,0 +1,6 @@
+{
+  "name": "ReceiptAI",
+  "description": "AI-Powered Smart Receipt Scanner & Expense Tracker with Gemini-powered extraction, spending insights, and budget analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
